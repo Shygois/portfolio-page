@@ -10,5 +10,6 @@ See list of updates that were made:
 - reorganized CSS code to keep sections together 
 - simplified CSS code by combining where applicable 
 
-Deployed link: https://github.com/Shygois/portfolio-page
-Github link: https://shygois.github.io/portfolio-page/
+Deployed link: https://shygois.github.io/portfolio-page/
+
+Github link: https://github.com/Shygois/portfolio-page
